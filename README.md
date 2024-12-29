@@ -77,7 +77,10 @@ The dataset contains earthquake data from 1995 to 2023 with the following parame
 
 ### 5. Predictive Modeling
 - **XGBoost Classifier**: Achieved an accuracy of **92.8%** in predicting tsunami occurrences.
+- ![image](https://github.com/user-attachments/assets/ce7f6330-b143-4487-bb91-0a3ae80d34c0)
+
 - **Sequential ANN**: Achieved an accuracy of **89%**.
+- ![image](https://github.com/user-attachments/assets/474711a6-92bd-483f-b13d-309207fd0a72)
 
 ## Results
 - Identified strong relationships between seismic parameters and tsunami occurrences.
