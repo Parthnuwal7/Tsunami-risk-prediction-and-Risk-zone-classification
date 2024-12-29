@@ -2,6 +2,7 @@
 This repository contains an in-depth analysis of earthquake data from 1995 to 2023, focusing on the relationship between seismic parameters and the occurrence of tsunamis. The project includes clustering, exploratory data analysis (EDA), risk zone classification, and predictive modeling.
 
 Dashboard link: https://public.tableau.com/views/EarthquakeAnalysis_17354827858960/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 Don't forget to give this repo a star 🌟 
 ## Table of Contents
 - [Project Overview](#project-overview)
