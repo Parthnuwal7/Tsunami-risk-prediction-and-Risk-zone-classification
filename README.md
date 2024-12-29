@@ -94,7 +94,7 @@ The dataset contains earthquake data from 1995 to 2023 with the following parame
 ## How to Use This Repository
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/Parthnuwal7/Tsunami-risk-prediction-and-Risk-zone-classification]
+   git clone https://github.com/Parthnuwal7/Tsunami-risk-prediction-and-Risk-zone-classification
    ```
 2. Install the required Python libraries:
    ```bash
