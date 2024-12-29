@@ -3,6 +3,7 @@ In this project, we aim to assess high-risk earthquake zones,  examine the corre
 # Earthquake and Tsunami Analysis (1995-2023)
 
 This repository contains an in-depth analysis of earthquake data from 1995 to 2023, focusing on the relationship between seismic parameters and the occurrence of tsunamis. The project includes clustering, exploratory data analysis (EDA), risk zone classification, and predictive modeling.
+Dashboard link: [https://public.tableau.com/app/profile/parth.nuwal4883/viz/EarthquakeAnalysis_17354827858960/Dashboard1?publish=yes](url)
 
 ## Table of Contents
 - [Project Overview](#project-overview)
