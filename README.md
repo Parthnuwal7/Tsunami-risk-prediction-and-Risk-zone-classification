@@ -46,7 +46,7 @@ The dataset contains earthquake data from 1995 to 2023 with the following parame
 - Frequency in the last 5 years
 - Major earthquake frequency in the last 5 years
 - Ratio of earthquake occurrences in the last 5 years
-- Tsunami occurrence (binary: Yes/No)
+- Tsunami occurrence (binary: 1/0)
 
 ## Analysis and Methodology
 
@@ -55,6 +55,8 @@ The dataset contains earthquake data from 1995 to 2023 with the following parame
 - Standardized numerical values for easier analysis and modeling.
 
 ### 2. Clustering
+![image](https://github.com/user-attachments/assets/d3fb91f2-b0c4-4ea9-a7b1-0de6c7c578cf)
+
 - Applied **DBSCAN (Density-Based Spatial Clustering of Applications with Noise)** to group data points into clusters based on density.
 
 ### 3. Exploratory Data Analysis (EDA)
@@ -64,6 +66,8 @@ The dataset contains earthquake data from 1995 to 2023 with the following parame
 - **Feature Importance**: Identified key factors influencing tsunami occurrences.
 
 ### 4. Risk Zone Classification
+![image](https://github.com/user-attachments/assets/fd01fb60-4763-401e-8c78-2a064ee02d30)
+
 - Classified regions into **High Risk**, **Medium Risk**, and **Low Risk** zones based on:
   - Median magnitude
   - Frequency over 5 years (`freq_5years`)
